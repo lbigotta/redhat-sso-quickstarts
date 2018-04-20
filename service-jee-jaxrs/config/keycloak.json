@@ -1,0 +1,8 @@
+{
+  "realm": "3scale-sso",
+  "auth-server-url": "https://secure-sso-rh-sso.apps.api.bigotta.it/auth",
+  "ssl-required": "none",
+  "resource": "service-jaxrs",
+  "public-client": true
+   "enable-cors": true
+}
